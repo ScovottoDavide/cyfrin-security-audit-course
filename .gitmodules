@@ -1,0 +1,3 @@
+[submodule "passwordstore-audit/lib/forge-std"]
+	path = passwordstore-audit/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
